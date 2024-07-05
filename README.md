@@ -38,7 +38,7 @@
 <br>
 
 ## Contest
-| 연도 | 주최 | 대회명 | 분석 tool | 비고 |
+| 연도 | 주최 | 대회명 | 분야 | 비고 |
 | :------: | :------: | :------: | :------: | :------: |
 |2023| 국민대학교 |패널 Survey 응답 예측 (전공)|ML|[링크](https://github.com/WonWoooPark/panel_survey_prediction)|
 | 2024 | 미래와 소프트웨어 | 빅데이터 활용 미래 사회문제 해결 아이디어 해커톤 | 데이터 시각화 & ML & streamlit  |  |
@@ -48,7 +48,7 @@
 <br>
 
 ## Projects
-|진행 일시|프로젝트명|분야|비고|
+| 진행 일시 | 프로젝트명 | 분야 | 비고 |
 |:------:|:------:|:------:|:------:|
 |2022|대학생 자취 지역 추천 시스템 (전공)|EDA & 시각화|[링크]|
 |2024|네이버 블로그 & 카페 API 호출을 통한 국내 주요 여행지 추천 (전공)|NLP|[링크](https://github.com/WonWoooPark/Travel_destination_recommendation/blob/main/README.md)|
