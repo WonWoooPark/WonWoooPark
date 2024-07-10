@@ -52,4 +52,4 @@
 |:------:|:------:|:------:|:------:|
 |2023|대학생 자취 지역 추천 시스템 (전공)|EDA & 시각화|[링크](https://github.com/WonWoooPark/local_recommendation)|
 |2024|네이버 블로그 & 카페 API 호출을 통한 국내 주요 여행지 추천 (전공)|NLP|[링크](https://github.com/WonWoooPark/Travel_destination_recommendation/blob/main/README.md)|
-|2024|피부질환 판독 AI를 통한 의료 취약 지역 환자 투약 가이드라인 제공 방안<br/>(파이프라인 설계, 구현 X)|CV|[링크]|
+|2024|피부질환 판독 AI를 통한 의료 취약 지역 환자 투약 가이드라인 제공 방안<br/>(파이프라인 설계, 구현 X)|CV|[링크](https://github.com/WonWoooPark/skin_disease)|
