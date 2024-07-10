@@ -42,7 +42,7 @@
 | :------: | :------: | :------: | :------: | :------: |
 |2023| 국민대학교 |패널 Survey 응답 예측 (전공)|ML|[링크](https://github.com/WonWoooPark/panel_survey_prediction)|
 | 2024 | 미래와 소프트웨어 | 빅데이터 활용 미래 사회문제 해결 아이디어 해커톤 | 데이터 시각화 & ML & streamlit  |[링크](https://github.com/WonWoooPark/maintain_bill_prediction)  |
-| 2024 | 환경부 | 2024년도 환경데이터 활용 및 분석 공모전 | 데이터 전처리 & 데이터 시각화 |  |
+| 2024 | 환경부 | 2024년도 환경데이터 활용 및 분석 공모전 | 데이터 전처리 & 데이터 시각화 |[링크](https://github.com/WonWoooPark/dust_solving) |
 
 
 <br>
