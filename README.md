@@ -22,6 +22,7 @@
 | 취득 연도 | 자격증 | 주관 | 유효기간 |
 |-|-|-|-|
 |2024|ADsP|한국데이터산업진흥원|영구|
+|2024|SQLD|한국데이터산업진흥원|영구|
 
 <br>
 
@@ -32,7 +33,7 @@
 | 2020.03~ |  국민대학교  | AI빅데이터융합경영학과   | 제1전공 |
 | 2023.03~2023.06 | 전공 학회  | D&A Basic Session | 수료 |
 | 2024.03~ |  국민대학교  | 데이터사이언스 융합 전공  | 융합전공 |
-| 2024.03~2024.06 | 전공 학회  | D&A Basic Session | 수료 |
+| 2024.03~2024.06 | 전공 학회  | D&A Deep Session | 수료 |
 
 
 <br>
@@ -41,7 +42,7 @@
 | 연도 | 주최 | 대회명 | 분야 | 비고 |
 | :------: | :------: | :------: | :------: | :------: |
 |2023| 국민대학교 |패널 Survey 응답 예측 (전공)|ML|[링크](https://github.com/WonWoooPark/panel_survey_prediction)|
-| 2024 | 미래와 소프트웨어 | 빅데이터 활용 미래 사회문제 해결 아이디어 해커톤 | 데이터 시각화 & ML & streamlit  |[링크](https://github.com/WonWoooPark/maintain_bill_prediction)  |
+| 2024 | 미래와 소프트웨어 | 빅데이터 활용 미래 사회문제 해결 아이디어 해커톤 | 데이터 시각화 & ML & streamlit |[링크](https://github.com/WonWoooPark/maintain_bill_prediction)  |
 | 2024 | 환경부 | 2024년도 환경데이터 활용 및 분석 공모전 | 데이터 전처리 & 데이터 시각화 |[링크](https://github.com/WonWoooPark/dust_solving) |
 
 
@@ -53,3 +54,5 @@
 |2023|대학생 자취 지역 추천 시스템 (전공)|EDA & 시각화|[링크](https://github.com/WonWoooPark/local_recommendation)|
 |2024|네이버 블로그 & 카페 API 호출을 통한 국내 주요 여행지 추천 (전공)|NLP|[링크](https://github.com/WonWoooPark/Travel_destination_recommendation/blob/main/README.md)|
 |2024|피부질환 판독 AI를 통한 의료 취약 지역 환자 투약 가이드라인 제공 방안<br/>(파이프라인 설계, 구현 X)|CV|[링크](https://github.com/WonWoooPark/skin_disease)|
+|2024|국내 도시 관광 활성화 콜라톤|데이터 시각화 & streamlit |[링크](https://github.com/WonWoooPark/KMU_Hackathon)|
+|2024|자기주도학습을 이용한 차량 엔진 및 배기음 이상치 탐지|Anomaly sound detection|[링크](https://github.com/WonWoooPark/Alpha_Project)|
